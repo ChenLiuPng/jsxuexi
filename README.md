@@ -11,8 +11,17 @@ Array Object ... 方法与属性
 
 `Array.prototype.concat()`
 
+2020年3月2日08:08:42 新增数组去重合并
+
+
+2020年3月2日08:08:42 完成
+
+`Array.from()`
+
 目录：
 
 Array/数组属性-length.md
 
 Array/数组方法concat.md
+
+Array/数组方法from.md
