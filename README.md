@@ -14,6 +14,10 @@ Array Object ... 方法与属性
 >2020年3月2日08:08:42 完成
 > `Array.from()`
 
+
+>2020年3月3日23:14:46 完成
+> `Array.isArray()`
+
 目录：
 
 + Array/数组属性-length.md
@@ -21,3 +25,5 @@ Array Object ... 方法与属性
 + Array/数组方法concat.md
 
 + Array/数组方法from.md
+
++ Array/数组方法isArray.md
